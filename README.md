@@ -1,6 +1,6 @@
 Very simple ui design, implemented also with separation of concerns. We have the end-points in separate service with return types, and
 we have models/interfaces in separate folder. I didn't create components because I thought it was unnecessary. I used as externals libraries
-bootstrap and [CanvasJS Angular Charts](https://canvasjs.com/)
+bootstrap and [CanvasJS Angular Charts](https://canvasjs.com/angular-charts/)
 
 
 # GraphicDisplayUi
